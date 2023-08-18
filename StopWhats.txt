@@ -1,1 +1,1 @@
-10||https:/www.google.com||https:/www.google.com
+7||https:/www.google.com||https:/www.google.com
