@@ -1,0 +1,50 @@
+{
+    "GBHelp": {
+        "update_gbhelp_code": "9",
+        "reminder_time": "3",
+        "insta_themes": "1",
+        "update_link": "https://t.me/whatsapp_OB",
+        "app_gbinsta": "https://m.shwhats.com/0mp1d0DUsx3Il1R,v8,OBInstagram,com.gbinsta.android",
+        "app_insta": "https://m.shwhats.com/egxkT5qY3DMMwkY,v8,Instagram Pro,com.instagram.android",
+        "app_gbwa": "https://t.me/whatsapp_OB,v60.3,OBWhatsApp,com.gbwhatsapp",
+        "app_gbwa3": "https://t.me/whatsapp_OB,v60.3,OB2WhatsApp,com.gbwhatsapp3",
+        "app_wa": "https://t.me/whatsapp_OB,v60.3,WhatsApp,com.whatsapp",
+        "app_fmwa": "https://t.me/whatsapp_OB,OB3WhatsApp,com.fmwhatsapp",
+        "app_yowa": "https://t.me/whatsapp_OB,v60.3,OB4WhatsApp,com.yowhatsapp",
+        "app_nowa": "https://t.me/whatsapp_OB,v60.3,OB5WhatsApp,com.nowhatsapp",
+        "app_nowa2": "https://t.me/whatsapp_OB,v60.3,OB6WhatsApp,com.nowhatsapp2",
+        "app_nowa3": "https://t.me/whatsapp_OB,v60.3,OBWhatsApp,com.nowhatsapp3",
+        "update_message": "",
+        "update_message_ar": ""
+    },
+    "GBInsta": {
+        "update_code": "11",
+        "reminder_time": "3",
+        "update_version": "v5.9",
+        "update_link": "https://t.me/whatsapp_OB",
+        "gbinsta_link": "https://m.shwhats.com/0mp1d0DUsx3Il1R",
+        "insta_link": "https://m.shwhats.com/egxkT5qY3DMMwkY",
+        "update_message": "",
+        "update_message_ar": ""
+    },
+    "GBWA": {
+        "update_code": "30",
+        "reminder_time": "3",
+        "update_version": "v26.3",
+        "gbhelp_link": "https://t.me/whatsapp_OB",
+        "wa_link": "https://t.me/whatsapp_OB",
+        "gb_link": "https://t.me/whatsapp_OB",
+        "gb3_link": "https://t.me/whatsapp_OB",
+        "fm_link": "https://t.me/whatsapp_OB",
+        "yo_link": "https://t.me/whatsapp_OB",
+        "no_link": "https://t.me/whatsapp_OB",
+        "no2_link": "https://t.me/whatsapp_OB",
+        "no3_link": "https://t.me/whatsapp_OB",
+        "stickers_app": "dontcheck",
+        "stickers_app_package_name": "com.gbstickers.gb",
+        "stickers_app_link": "https://play.google.com/store/apps/details?id=com.gbstickers.gb",
+        "stickers_app_direct_link": "https://1.shwhats.com/?p=65",
+        "update_message": "",
+        "update_message_ar": ""
+    }
+}
