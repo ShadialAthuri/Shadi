@@ -7,7 +7,7 @@
 🍴 [اصلاح] العديد من الأعطال العشوائية
 
 
-What's new in version V7.0
+What's new in version V8.0
 
 ➖ [Base update] 292.0.0.31.110
 ☯️ [Exclusive] Added Show Deleted Messages
