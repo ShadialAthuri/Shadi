@@ -1,0 +1,18 @@
+{ 
+"OBTwitter": { 
+"update_code": "3", 
+"reminder_time": "3", 
+"update_version": "v3.00", 
+"com.twitter.android": "https://www.watsabp.plus/twitter-omar/", 
+ "com.twitter.ob": "https://www.watsabp.plus/twitter-omar/", 
+"update_message": " 
+<p>Update Vتحديث 3.00</p> 
+<li>التحديث لنسخة الماركت 2.24.8.85</li> 
+
+ 
+<li>Base Update: 2.24.8.85</li> 
+<li>Improved Protection anti banned</li> 
+
+" 
+} 
+}
