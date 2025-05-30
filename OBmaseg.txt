@@ -1,10 +1,10 @@
 {
-  "Show": 3,
-  "frequency": 5,
+  "Show": 2,
+  "frequency": 2,
   "Title": "🌸 دعاء لقلبٍ مطمئن",
   "Summary": "اللهم إنّي أسألك فرحًا قريبًا، وصبرًا جميلًا، وقلبًا شاكرًا، وذنبًا مغفورًا. 🌺🤲",
   "imgeurl": "https://raw.githubusercontent.com/ahmedkhbas/ahmedkhbas/main/Images/tnks.pn",
-  "url": "https://whatsapp.com/channel/0029Vasig1fHAdNP243KjG2E"
+  "url": "https://t.me/whatsapp_ob"
 }
 
 ‏
